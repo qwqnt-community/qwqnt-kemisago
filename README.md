@@ -1,4 +1,4 @@
-# LiteLoaderQQNT-Kemisago
+# qwqnt-kemisago
 
 本仓库为[这个仓库](https://github.com/Snoopy1866/text-elementalizer)的 QwQNT 移植版，由该仓库所有者委托移植。
 
@@ -12,9 +12,9 @@
 
 ## 依赖
 
-本插件依赖 `QwQNT-RenderEvents` 插件和 `QwQNT-PluginSettings` 插件。
+本插件依赖 `qwqnt-renderer-events` 插件和 `qwqnt-plugin-settings` 插件。
 
-上述插件见 `QwQ-002` 组织。
+上述插件见 `qwqnt-community` 组织。
 
 ## 鸣谢
 
@@ -23,8 +23,8 @@
 
 ## License
 ```
-    QwQNT-Kemisago
-    Copyright (C) 2025  Adpro
+    qwqnt-kemisago
+    Copyright (C) 2025  風間青祢
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
