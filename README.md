@@ -12,7 +12,7 @@
 
 ## 依赖
 
-本插件依赖 `qwqnt-renderer-events` 插件和 `qwqnt-plugin-settings` 插件。
+本插件依赖 `qwqnt-hako` 插件。
 
 上述插件见 `qwqnt-community` 组织。
 
