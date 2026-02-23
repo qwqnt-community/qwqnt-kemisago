@@ -37,8 +37,7 @@
       "renderer": "./renderer/index.js"
     },
     "dependencies": {
-      "qwqnt-renderer-events": "^2.0.0",
-      "qwqnt-plugin-settings": "^2.0.0"
+      "qwqnt-hako": "^1.0.1"
     }
   },
   "dependencies": {
